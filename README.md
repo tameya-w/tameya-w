@@ -10,6 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tameya-w/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tameya-w/azure-network-protocols)
+- <b>PowerShell Scripting</b>
+  - [System Health Check](https://github.com/tameya-w/System-Health-Check)
 
 
 
