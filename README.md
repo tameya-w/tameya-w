@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/tameya-w/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tameya-w/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tameya-w/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tameya-w/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tameya-w/azure-network-protocols)
 - <b>PowerShell Scripting</b>
