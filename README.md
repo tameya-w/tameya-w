@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tameya-w/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tameya-w/configure-ad)
-  - [Deploying Active Directory]((https://github.com/tameya-w/deploy-ad))
+  - [Deploying Active Directory](https://github.com/tameya-w/deploy-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tameya-w/azure-network-protocols)
 - <b>PowerShell Scripting</b>
   - [System Health Check](https://github.com/tameya-w/System-Health-Check)
